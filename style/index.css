@@ -20,3 +20,7 @@
 .rho_down {
   transform: skewX(-30deg);
 }
+
+.font_style {
+  text-transform: capitalize;
+}
