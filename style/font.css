@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'BlackOpsOne';
+  src: local('BlackOpsOne'), url('./BlackOpsOne-Regular.ttf') format('truetype');
+  font-weight: 400;
+}

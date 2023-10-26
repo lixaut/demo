@@ -1,0 +1,1 @@
+export let a = 'aggregate_a';

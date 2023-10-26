@@ -1,0 +1,22 @@
+@import url(./font.css);
+#app {
+  font-size: 24px;
+  font-family: 'BlackOpsOne';
+}
+#rhombus {
+  width: 500px;
+  height: 200px;
+  margin-left: 30px;
+}
+#rhombus div {
+  width: 100%;
+  height: 50%;
+  border: 0;
+  background-color: yellowgreen;
+}
+.rho_up {
+  transform: skewX(30deg);
+}
+.rho_down {
+  transform: skewX(-30deg);
+}
